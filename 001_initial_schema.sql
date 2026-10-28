@@ -1,0 +1,3 @@
+-- LML Connect
+-- La migración real se adaptará a la estructura existente de Supabase proporcionada por el usuario.
+-- No se incluyen datos ficticios.
